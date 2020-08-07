@@ -1,3 +1,3 @@
 <?php 
-$koneksi = mysqli_connect("localhost","heydaans","@Heydaans19","importexcel");
+$koneksi = mysqli_connect("localhost","root","","importexcel");
 ?>
